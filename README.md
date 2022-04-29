@@ -1,5 +1,5 @@
 # CERN technical student notes
-Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers.cern](careers.cern) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
+Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers.cern](careers website) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
 
 Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, i decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned (and i did not even manage to get accepted yet). 
 
@@ -82,7 +82,7 @@ Research them a bit! Do your homework on what they do. Search both the names and
 ### The actual interview
 Don't be nervous! They will probably are interested in you just as you're interested in them! They will introduce themselves, tell you a bit about their project and why you're needed, and try to understand if and how your skills would fit on their project and in their team. To get your skills across tell them about some relevant projects. If they are developing a kryptonite hypermagnet, tell them about that one uni project where you studied kryptonite magnets to make a time curving device. If they're developing a brainfuck interpreter, tell them more about your experience with [Cow](https://esolangs.org/wiki/COW) and the time you wrote a turing machine simulator from scratch. Be relevant. 
 # After the interview
-After the interviews, the teams will communicate to the HR a list of three names. One is the main candidate, and the other two are 1st and 2nd reserve candidates.
+After the interviews, the teams will communicate to the HR a list of three names. One is the main candidate, and the other two are first and second reserve candidates.
 The teams will not tell you if you're on the list and at which place, but they may give you some feedback.
 
 You may be selected as main candidate by more than one team. My understanding here is that if there is a conflict within a department, the HR or the department choose for you. Instead, if the conflict is across different departments they may let you choose.
