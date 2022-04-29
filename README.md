@@ -1,7 +1,7 @@
 # CERN technical student notes
 Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers.cern](careers.cern) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
 
-Since most of this informations lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, i decided to gather it all in one spot. I take no responsiblity for the information here, this is just what i learned (and i did not even manage to get accepted yet). 
+Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, i decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned (and i did not even manage to get accepted yet). 
 
 The fields in which you can apply are:
 - applied physics;
@@ -26,10 +26,10 @@ On why it did drop after 2018 is beyond my understanding currently.
 
 
 # Preparing your application
-There are two committees every year, one in May and one in December. The deadline for the committee in may is around the end of march, while the deadline for the december committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
+There are two committees every year, one in May and one in December. The deadline for the committee in may is around the end of march, while the deadline for the December committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
 Take your time to prepare your application, there is no advantage in sending it first or sooner. Just be sure to send it before the deadline. 
 
-Cern has it's own page for tips [here](https://careers.cern/tips-applying).
+CERN has it's own page for tips [here](https://careers.cern/tips-applying).
 
 ## Requirements
 The requirements to apply for a technical student position are stated in the website, but unfortunately the requirements are not available until the applications open, so here they are:
@@ -43,7 +43,7 @@ Note that you cannot graduate or finish your studies during the technical studen
 ## Your CV
 A short CV that catches the eye is better than a long CV everything you did in your life in detail. A couple of pages should be enough for a student. Select the relevant experiences. As recruiters often say: "If you're enrolled in university, we can probably figure out that you did high school too". No need to specify.
 
-Be sure to mention any relevant project you did. University assignments work too. If you have nothing to mention, do some and come back. From the recruiters perspective it helps to assess your competences and show your interests. If you did group assignments, mention that too. Other than this, supervisors search through applications using keyword search. So **use keywords for your projects**. Bulletpoints are a tool too. 
+Be sure to mention any relevant project you did. University assignments work too. If you have nothing to mention, do some and come back. From the recruiters perspective it helps to assess your competences and show your interests. If you did group assignments, mention that too. Other than this, supervisors search through applications using keyword search. So **use keywords for your projects**. Bullet points are a tool too. 
 
 [Tips for your CV from CERN](https://careers.cern/node/47)
 
@@ -69,12 +69,12 @@ After a couple of days since the closing of the application, if you did everythi
 - What is your ideal working environment
 - Do you want to add any comment?
 
-That's it. You get one minute to think to an answer (not recorded) and one minute to reply (obviously recorded). I was a bit nervous, and you probabily will be too. But there is no need, just answer the questions.
+That's it. You get one minute to think to an answer (not recorded) and one minute to reply (obviously recorded). I was a bit nervous, and you probably will be too. But there is no need, just answer the questions.
 
 # Interviews with the teams
 Now for the hard part. After the SONRU deadline, HR send all the candidate files to the teams for the selection. 1-3 weeks after the SONRU deadline, you can be contacted by some team - typically via email - to schedule a call. 
 
-Most of the applicants won't get contacted back. While it does not mean yet that you are not selected, it appears that being selected without an interview is pretty hard, so the chanches are quite low at this point. Do not despair, it happens! [What to do if you're not selected](#if-im-not-selected). 
+Most of the applicants won't get contacted back. While it does not mean yet that you are not selected, it appears that being selected without an interview is pretty hard, so the chances are quite low at this point. Do not despair, it happens! [What to do if you're not selected](#if-im-not-selected). 
 
 At this point you can be contacted by one or more teams. This does not mean that you're selected yet, but your chances are now a lot higher, congrats!
 ### How to prepare for the interview
@@ -84,13 +84,14 @@ Don't be nervous! They will probably are interested in you just as you're intere
 # After the interview
 After the interviews, the teams will communicate to the HR a list of three names. One is the main candidate, and the other two are 1st and 2nd reserve candidates.
 The teams will not tell you if you're on the list and at which place, but they may give you some feedback.
-You may be selected as main candidate by more than one team. My understanding here is that if there is a confling within a department, the HR or the department choose for you. Instead, if the conflict is across different departments they may let you choose.
+
+You may be selected as main candidate by more than one team. My understanding here is that if there is a conflict within a department, the HR or the department choose for you. Instead, if the conflict is across different departments they may let you choose.
 
 # Outcome
 You will receive an email after the committee meeting, with one of three outcomes:
 - You are selected. Congratulations, you did it! Now you will have to provide a declaration that you will stay enrolled and get it signed by your Uni, and sign your contract!
 - You are a reserve candidate. You will hold this status until the first candidate either signs or fails to sign the contract. 
-- You are not selected. It happens for most candidates, i'm sorry! Check out [what to do if you are not selected](#if-im-not-selected)
+- You are not selected. It happens for most candidates, I'm sorry! Check out [what to do if you are not selected](#if-im-not-selected)
 
-# If i'm not selected
-Retry if you dont succeed the first time!
+# If I'm not selected
+Retry if you don't succeed the first time!
