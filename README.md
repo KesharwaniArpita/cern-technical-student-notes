@@ -1,7 +1,9 @@
 # CERN technical student notes
-Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers.cern](careers website) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
+Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers website](https://careers.cern/) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
 
-Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, i decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned (and i did not even manage to get accepted yet). 
+Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, I decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned. 
+
+[Tau Bytes](https://taubytes.com/cern.html)) is also a cool site/blog made by a previous summer student that lists tips about the application, cv and motivational letter that could be applied for technical as well
 
 The fields in which you can apply are:
 - applied physics;
@@ -13,7 +15,7 @@ The fields in which you can apply are:
 
 
 Acceptance rate is pretty low, but nothing impossible. It is (much) higher for students from member states. 
-This is the acceptance rate for the last years:
+This is the acceptance rate for the last years (for both selection committees) :
 | Year | Applications | Selected | Success rate |
 |------|--------------|----------|--------------|
 | 2020 |         2169 |      156 |        7,19% |
@@ -22,11 +24,10 @@ This is the acceptance rate for the last years:
 | 2017 |         1248 |      222 |       17,79% |
 | 2016 |         1350 |      233 |       17,26% |
 
-On why it did drop after 2018 is beyond my understanding currently.
-
+You can find more detailed statistics about ethnicity, gender etc. at [CERN Annual Personnel report](https://cds.cern.ch/collection/CERN%20Annual%20Personnel%20Statistics?ln=el) at Technical Student Recruitment section.
 
 # Preparing your application
-There are two committees every year, one in May and one in December. The deadline for the committee in may is around the end of march, while the deadline for the December committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
+There are two committees every year, one in May and one in December. The deadline for the committee in May is around the end of March, while the deadline for the December committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
 Take your time to prepare your application, there is no advantage in sending it first or sooner. Just be sure to send it before the deadline. 
 
 CERN has it's own page for tips [here](https://careers.cern/tips-applying).
@@ -46,22 +47,26 @@ A short CV that catches the eye is better than a long CV everything you did in y
 Be sure to mention any relevant project you did. University assignments work too. If you have nothing to mention, do some and come back. From the recruiters perspective it helps to assess your competences and show your interests. If you did group assignments, mention that too. Other than this, supervisors search through applications using keyword search. So **use keywords for your projects**. Bullet points are a tool too. 
 
 [Tips for your CV from CERN](https://careers.cern/node/47)
+[Tips by Tau Bytes](https://taubytes.com/cern/01-student-internship-cern-summer-school.html)
 
 ## Recommendation letter
 You can upload your recommendation letter in two ways: you upload it in the application form or you send the recommendation upload link to whoever is writing the letter for you and they upload it from there. The second way is useful when who is writing the letter doesn't want you to read it, to not influence them in writing it.
 I don't think CERN cares if you use a way or the other, it is the author's preference to show it to you or not.
 
 Ask some uni professor that knows you (better if you took an exam with them and it went well).
+
 ## Member States vs Associate Member States
 To me it looks like Associate Member States nationals have a lower acceptance rate. I don't know if this is by policy or by chance.
+
 ## Duration
 You can choose to stay 4 to 12 months, but most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
 
 ![image](https://user-images.githubusercontent.com/17505995/165913409-0886d730-e06f-48b0-9ed0-934ef61fcb2b.png)
 
 While 12 months is the vast majority, two thirds of the contracts last less. However, **my advice is to try and be available for 12 months**, and indicate it in the application form.
+
 # SONRU interview
-After a couple of days since the closing of the application, if you did everything correctly, it comes the most scary part for many. You receive an email asking you to complete the self-video interview. In the email they tell you the questions that you will be asked. They are exactly what they tell you:
+After a couple of days since the closing of the application, if you did everything correctly, it comes the most scary part for many. You receive an email asking you to complete the self-video interview. In the email they tell you the questions that you will be asked. They are exactly what they tell you. Previously they had these questions but of course they are subject to change, so check what the email said.
 - Briefly introduce yourself 
 - Describe a project you’re proud of and why, 
 - Tell about your technical/administrative strengths, 
@@ -77,10 +82,13 @@ Now for the hard part. After the SONRU deadline, HR send all the candidate files
 Most of the applicants won't get contacted back. While it does not mean yet that you are not selected, it appears that being selected without an interview is pretty hard, so the chances are quite low at this point. Do not despair, it happens! [What to do if you're not selected](#if-im-not-selected). 
 
 At this point you can be contacted by one or more teams. This does not mean that you're selected yet, but your chances are now a lot higher, congrats!
+
 ### How to prepare for the interview
 Research them a bit! Do your homework on what they do. Search both the names and the section, try to understand roughly what they do and what they may expect you to do for them. 
+
 ### The actual interview
 Don't be nervous! They will probably are interested in you just as you're interested in them! They will introduce themselves, tell you a bit about their project and why you're needed, and try to understand if and how your skills would fit on their project and in their team. To get your skills across tell them about some relevant projects. If they are developing a kryptonite hypermagnet, tell them about that one uni project where you studied kryptonite magnets to make a time curving device. If they're developing a brainfuck interpreter, tell them more about your experience with [Cow](https://esolangs.org/wiki/COW) and the time you wrote a turing machine simulator from scratch. Be relevant. 
+
 # After the interview
 After the interviews, the teams will communicate to the HR a list of three names. One is the main candidate, and the other two are first and second reserve candidates.
 The teams will not tell you if you're on the list and at which place, but they may give you some feedback.
@@ -93,5 +101,9 @@ You will receive an email after the committee meeting, with one of three outcome
 - You are a reserve candidate. You will hold this status until the first candidate either signs or fails to sign the contract. 
 - You are not selected. It happens for most candidates, I'm sorry! Check out [what to do if you are not selected](#if-im-not-selected)
 
+The committee takes place around the first Thursday of December/May and results are handed around 4pm-5pm CET. If you haven't heard on the same day, then chances to get selected are pretty low. You can see when the next committe takes place at [CERN calendar](https://indico.cern.ch/category/0/calendar) as "TSC-(year)"
+
 # If I'm not selected
-Retry if you don't succeed the first time!
+Retry if you don't succeed the first time! You will only get better. 
+
+Sometimes (a lot of us) made the question "what is cern looking in the candidates?". Keep in mind, that CERN has a specific domain area and recruitment is based on the porject the supervisor wants you to work on. It's not like companies where they give priority to a more well rounded overall talent and they could just teach you the missing pieces. So having the skills required for the project (which is unknown to students in order to be fair and square) is the key to getting accepted. You might be the best programmer in a language, going to hackathons, having projects and previous internships, solving 300 leetcodes per day, but if they don't ralate to the cern project, you won't get selected. Even if these could get you an interview and an offer at Google. In contrast you might have some experience in a very niche skill that cern uses and it will be enough to get accepted. See what CERN does (open source projects), what the departments and subgroups do, what technologies they use and if they align with your skills and interests, then you are in a good spot.
