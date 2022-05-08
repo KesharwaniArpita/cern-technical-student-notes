@@ -3,7 +3,7 @@ Notes on how to increase your chances at getting accepted for the technical stud
 
 Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, I decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned. 
 
-[Tau Bytes](https://taubytes.com/cern.html)) is also a cool site/blog made by a previous summer student that lists tips about the application, cv and motivational letter that could be applied for technical as well
+[Tau Bytes](https://taubytes.com/cern.html) is also a cool site/blog made by a previous summer student that lists tips about the application, cv and motivational letter that could be applied for technical as well
 
 The fields in which you can apply are:
 - applied physics;
@@ -48,6 +48,7 @@ Be sure to mention any relevant project you did. University assignments work too
 
 [Tips for your CV from CERN](https://careers.cern/node/47)
 [Tips by Tau Bytes](https://taubytes.com/cern/01-student-internship-cern-summer-school.html)
+[More tips by Tau Bytes](https://taubytes.com/cern/03-cv-for-cern-cerncv-help-writing-cv.html)
 
 ## Recommendation letter
 You can upload your recommendation letter in two ways: you upload it in the application form or you send the recommendation upload link to whoever is writing the letter for you and they upload it from there. The second way is useful when who is writing the letter doesn't want you to read it, to not influence them in writing it.
@@ -57,6 +58,13 @@ Ask some uni professor that knows you (better if you took an exam with them and 
 
 ## Member States vs Associate Member States
 To me it looks like Associate Member States nationals have a lower acceptance rate. I don't know if this is by policy or by chance.
+
+## “elaborate briefly your experience of the chosen domain(s)”
+Check out this post by Tau Bites: 
+https://taubytes.com/cern/04-how-to-write-about-intrests-and-experience-at-cern.html
+
+## "Message to the recruiter" and "What is your motivation for applying for this job?"
+This is where your motivational letter should go. You can find tips at [Tau Bytes](https://taubytes.com/cern/02-motivation-letter-for-cern-motivationletter.html)
 
 ## Duration
 You can choose to stay 4 to 12 months, but most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
@@ -110,7 +118,9 @@ Sometimes (a lot of us) made the question "what is cern looking in the candidate
 
 
 # After i'm selected
-Congratulations! There are a few things you should know
+Congratulations! There are a few things you should know. 
+
+There is a post on Tau Bytes that you may find useful, even though is aimed at summer students: https://taubytes.com/cern/05-going-to-cern-information-how-to-get-to-cern.html
 
 ## Bank account
 You will need a swiss bank account. Here is a reddit post you can look into: https://www.reddit.com/r/CERN/comments/sp3y74/suggestions_for_swiss_bank_account/
