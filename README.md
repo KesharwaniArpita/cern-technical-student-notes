@@ -123,6 +123,8 @@ Sometimes (a lot of us) made the question "what is cern looking in the candidate
 # After i'm selected
 Congratulations! There are a few things you should know, probably. I don't know them yet! Check back in a couple of months ☺
 
+Check out the HR page for studens: https://hr.web.cern.ch/technical-doctoral-and-administrative-students
+
 There is a post on Tau Bytes that you may find useful, even though is aimed at summer students: https://taubytes.com/cern/05-going-to-cern-information-how-to-get-to-cern.html
 
 ## Bank account
