@@ -1,3 +1,6 @@
+#  ⚠⚠⚠ DRAFT WARNING ⚠⚠⚠
+Please note that this is a draft. Information here can be wrong or counterproductive, it is just what has been gathered on the internet, and has not been confirmed by any official sources
+
 # CERN technical student notes
 Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers website](https://careers.cern/) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
 
