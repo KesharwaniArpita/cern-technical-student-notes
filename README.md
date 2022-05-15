@@ -49,9 +49,9 @@ A short CV that catches the eye is better than a long CV everything you did in y
 
 Be sure to mention any relevant project you did. University assignments work too. If you have nothing to mention, do some and come back. From the recruiters perspective it helps to assess your competences and show your interests. If you did group assignments, mention that too. Other than this, supervisors search through applications using keyword search. So **use keywords for your projects**. Bullet points are a tool too. 
 
-[Tips for your CV from CERN](https://careers.cern/node/47)
-[Tips by Tau Bytes](https://taubytes.com/cern/01-student-internship-cern-summer-school.html)
-[More tips by Tau Bytes](https://taubytes.com/cern/03-cv-for-cern-cerncv-help-writing-cv.html)
+[Tips for your CV from CERN](https://careers.cern/node/47)  
+[Tips by Tau Bytes](https://taubytes.com/cern/01-student-internship-cern-summer-school.html)  
+[More tips by Tau Bytes](https://taubytes.com/cern/03-cv-for-cern-cerncv-help-writing-cv.html)  
 
 ## Recommendation letter
 You can upload your recommendation letter in two ways: you upload it in the application form or you send the recommendation upload link to whoever is writing the letter for you and they upload it from there. The second way is useful when who is writing the letter doesn't want you to read it, to not influence them in writing it.
@@ -90,25 +90,31 @@ That's it. You get one minute to think to an answer (not recorded) and one minut
 # Interviews with the teams
 Now for the hard part. After the SONRU deadline, HR send all the candidate files to the teams for the selection. 1-3 weeks after the SONRU deadline, you can be contacted by some team - typically via email - to schedule a call. 
 
-Most of the applicants won't get contacted back. While it does not mean yet that you are not selected, it appears that being selected without an interview is pretty hard, so the chances are quite low at this point. Do not despair, it happens! [What to do if you're not selected](#if-im-not-selected). 
+Most of the applicants won't get contacted back. Rumors are that, if you don't get an interview your chances are slim. This seems to be false.  
+From a small poll of 14 people that were selected:  
+- 2 were confirmed to be selected after the interview (before the committee official selection);
+- 6 took an interview and were selected afterwards;
+- 6 did not take any interview and met their supervisors after the official selection.
 
-At this point you can be contacted by one or more teams. This does not mean that you're selected yet, but your chances are now a lot higher, congrats!
+You can be contacted by one or more teams. While this does not mean that you're selected yet, i feel like this means that your chances are increased.
+
 
 ### How to prepare for the interview
-Research them a bit! Do your homework on what they do. Search both the names and the section, try to understand roughly what they do and what they may expect you to do for them. 
+Research the group and the interviewers a bit! Do your homework on what they do. Search both the names and the section, try to understand roughly what they do and what they may expect you to do for them. 
 
 ### The actual interview
-Don't be nervous! They will probably are interested in you just as you're interested in them! They will introduce themselves, tell you a bit about their project and why you're needed, and try to understand if and how your skills would fit on their project and in their team. To get your skills across tell them about some relevant projects. If they are developing a kryptonite hypermagnet, tell them about that one uni project where you studied kryptonite magnets to make a time curving device. If they're developing a brainfuck interpreter, tell them more about your experience with [Cow](https://esolangs.org/wiki/COW) and the time you wrote a turing machine simulator from scratch. Be relevant. 
+Don't be nervous! They will probably be interested in you just as you're interested in them! They will introduce themselves, tell you a bit about their project and why you're needed, and try to understand if and how your skills would fit on their project and in their team. To get your skills across tell them about some relevant projects. If they are developing a kryptonite hypermagnet, tell them about that one uni project where you studied kryptonite magnets to make a time curving device. If they're developing a brainfuck interpreter, tell them more about your experience with esoteric languages and the time you wrote a turing machine simulator from scratch. Be relevant. 
 
 # After the interview
-After the interviews, the teams will communicate to the HR a list of three names. One is the main candidate, and the other two are first and second reserve candidates.
-The teams will not tell you if you're on the list and at which place, but they may give you some feedback.
+After the interviews, you're done! The teams will communicate to the HR a list of three names. One is the main candidate, and the other two are first and second reserve candidates.  
+The teams will probably not tell you if you're on the list and at which place, but they may give you some feedback.
 
-You may be selected as main candidate by more than one team. My understanding here is that if there is a conflict within a department, the HR or the department choose for you. Instead, if the conflict is across different departments they may let you choose.
+You may be selected as main candidate by more than one team. What i gathered online is that if there is a conflict within a department, the HR or the department choose for you. Instead, if the conflict is across different departments they may let you choose. I had the chance to choose.
 
 # Outcome
-You will receive an email after the committee meeting, with one of three outcomes:
-- You are selected. Congratulations, you did it! Now you will have to provide a declaration that you will stay enrolled and get it signed by your Uni, and sign your contract!
+You will receive an email after the committee meeting, with one of four outcomes:
+- You are selected. Congratulations, you did it! 
+- You are selected for more than one project. Excellent! You will have to choose which project you want to pick. If you were not interviewed by supervisors before, they will get in touch explaining you the projects. Now you will have to provide a declaration that you will stay enrolled and get it signed by your Uni, and sign your contract!
 - You are a reserve candidate. You will hold this status until the first candidate either signs or fails to sign the contract. 
 - You are not selected. It happens for most candidates, I'm sorry! Check out [what to do if you are not selected](#if-im-not-selected)
 
@@ -117,13 +123,23 @@ The committee takes place around the first Thursday of December/May and results 
 # If I'm not selected
 Retry if you don't succeed the first time! You will only get better. 
 
-Sometimes (a lot of us) made the question "what is cern looking in the candidates?". Keep in mind, that CERN has a specific domain area and recruitment is based on the project the supervisor wants you to work on. It's not like companies where they give priority to a more well rounded overall talent and they could just teach you the missing pieces. So having the skills required for the project (which is unknown to students in order to be fair and square) is the key to getting accepted. You might be the best programmer in a language, going to hackathons, having projects and previous internships, solving 300 leetcodes per day, but if they don't relate to the cern project, you won't get selected. Even if these could get you an interview and an offer at Google. In contrast you might have some experience in a very niche skill that cern uses and it will be enough to get accepted. See what CERN does (open source projects), what the departments and subgroups do, what technologies they use and if they align with your skills and interests, then you are in a good spot.
+Sometimes (a lot of us) made the question "what is cern looking in the candidates?". Keep in mind, that CERN has a specific domain area and recruitment is based on the project the supervisor wants you to work on. It's not like companies where they give priority to a more well rounded overall talent and they could just teach you the missing pieces. So having the skills required for the project (which is unknown to students in order to be fair and square) is the key to getting accepted. You might be the best programmer in a language, going to hackathons, having projects and previous internships, solving 300 leetcodes per day, but if they don't relate to the CERN project, you won't get selected. Even if these could get you an interview and an offer at Google. In contrast you might have some experience in a very niche skill that CERN uses and it will be enough to get accepted. See what CERN does (open source projects), what the departments and groups do, what technologies they use and if they align with your skills and interests, then you are in a good spot. If not, prepare yourself! 
 
 
 # After i'm selected
-Congratulations! There are a few things you should know, probably. I don't know them yet! Check back in a couple of months ☺
+Congratulations! There are a few things you will have to do before your envolvement becomes official. With HR representatives you will proceed in steps gathering all the required documentation:
+- In the first step **you will need to provide the scan of an ID with an expiration date or a passport**. Be prepared for this, if your country issues IDs without expiration date, start the process of getting a passport in advance, as it may take some time (some countries have an expedited procedure if you are in urgent need). 
+- Next you will be asked to provide the signed home institute declaration. You need this signed and stamped. If you don't know who to ask, try asking the professor that wrote your reference letter, they will know!
+- In the last step you will receive your contract to be signed. You will have to sign it in 7 days and upload it.
 
-Check out the HR page for studens: https://hr.web.cern.ch/technical-doctoral-and-administrative-students
+Check out the HR page for students: https://hr.web.cern.ch/technical-doctoral-and-administrative-students
+
+# I have signed my contract! Now what?
+I don't know yet! :) 
+I'll update this page soon.
+
+Two useful pages are the [Before I arrive](https://hr.web.cern.ch/before-i-arrive) page and the [Technical, Doctoral and Administrative Students](https://hr.web.cern.ch/technical-doctoral-and-administrative-students) page.
+
 
 There is a post on Tau Bytes that you may find useful, even though is aimed at summer students: https://taubytes.com/cern/05-going-to-cern-information-how-to-get-to-cern.html
 
