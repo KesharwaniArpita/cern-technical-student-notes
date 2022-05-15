@@ -148,9 +148,19 @@ Two useful pages are the [Before I arrive](https://hr.web.cern.ch/before-i-arriv
 There is a post on Tau Bytes that you may find useful, even though is aimed at summer students: https://taubytes.com/cern/05-going-to-cern-information-how-to-get-to-cern.html
 
 ## Bank account
-You will need a swiss bank account. Here is a reddit post you can look into: https://www.reddit.com/r/CERN/comments/sp3y74/suggestions_for_swiss_bank_account/
+You will need a swiss bank account. Here are some resources on how to choose one: 
++ https://www.reddit.com/r/CERN/comments/sp3y74/suggestions_for_swiss_bank_account/
++ https://www.facebook.com/groups/young.at.cern/permalink/4168200349892248/
 
+If you go for something like UBS or Credit Agricolè, most likely you'll need **two** different bank accounts, one in CHF and the other one in Euros. This means two different IBANs (CERN will pay you in the CHF one). Your consultant at the bank of your choice will explain you the situation in details.
 
+## Useful links
++ Young@CERN (Private Facebook group): https://www.facebook.com/groups/young.at.cern
++ CERN HR Deparment website: https://hr.web.cern.ch/
++ CERN Marketplace (Apartments and used useful stuff): https://marketplace.web.cern.ch
++ CERN Map application (useful during your first weeks): https://play.google.com/store/apps/details?id=ch.cern.mapcern&hl=en_US&gl=US
+
+Keep in mind that CERN Marketplace is not private for CERN people: beware of frauds!
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
