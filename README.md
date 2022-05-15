@@ -1,10 +1,13 @@
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]  
+
 #  ⚠⚠⚠ DRAFT WARNING ⚠⚠⚠
 Please note that this is a draft. Information here can be wrong or counterproductive, it is just what has been gathered on the internet, and has not been confirmed by any official sources
 
 # CERN technical student notes
 Notes on how to increase your chances at getting accepted for the technical student programme at CERN. The Technical Student Programme at CERN allows students from the Bachelor's and the Master's degree to go to work at CERN for 4-12 months for a studentship. Be sure to have a look at [careers website](https://careers.cern/) and at the [official programme page](https://careers.smartrecruiters.com/CERN/tech).
 
-Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, I decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned. 
+Since most of this information lay around in the internet (mostly on [r/CERN](reddit.com/r/CERN)) but in little bits everywhere, I decided to gather it all in one spot. I take no responsibility for the information here, this is just what i learned. [LICENSE-CC-BY-NC-SA.txt](https://github.com/valerionew/cern-technical-student-notes/files/8694684/LICENSE-CC-BY-NC-SA.txt)
+
 
 [Tau Bytes](https://taubytes.com/cern.html) is also a cool site/blog made by a previous summer student that lists tips about the application, cv and motivational letter that could be applied for technical as well
 
@@ -70,7 +73,8 @@ https://taubytes.com/cern/04-how-to-write-about-intrests-and-experience-at-cern.
 This is where your motivational letter should go. You can find tips at [Tau Bytes](https://taubytes.com/cern/02-motivation-letter-for-cern-motivationletter.html)
 
 ## Duration
-You can choose to stay 4 to 12 months, but most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
+You can choose to stay 4 to 12 months, bu[Uploading LICENSE-CC-BY-NC-SA.txt…]()
+t most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
 
 ![image](https://user-images.githubusercontent.com/17505995/165913409-0886d730-e06f-48b0-9ed0-934ef61fcb2b.png)
 
@@ -146,3 +150,10 @@ There is a post on Tau Bytes that you may find useful, even though is aimed at s
 ## Bank account
 You will need a swiss bank account. Here is a reddit post you can look into: https://www.reddit.com/r/CERN/comments/sp3y74/suggestions_for_swiss_bank_account/
 
+
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
