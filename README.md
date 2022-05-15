@@ -162,6 +162,11 @@ If you go for something like UBS or Credit Agricolè, most likely you'll need **
 
 Keep in mind that CERN Marketplace is not private for CERN people: beware of frauds!
 
+## Mobility
+When you plan your stay at CERN, keep in mind that you are entitled to ask for a [CERN bike](https://sce-dep.web.cern.ch/mobility/bike-rental). This means about 10/15 minutes of commute from Saint-Genis-Pouilly, for example. 
+
+CERN has also some [shuttle lines](https://sce-dep.web.cern.ch/cern-shuttle-service) in place. Shuttles are free for CERN workers.
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
