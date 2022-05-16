@@ -117,7 +117,7 @@ You may be selected as main candidate by more than one team. What i gathered onl
 # Outcome
 You will receive an email after the committee meeting, with one of four outcomes:
 - **You are selected**. Congratulations, you did it! 
-- **You are selected for more than one project.** Excellent! You will have to choose which project you want to pick. If you were not interviewed by supervisors before, they will get in touch explaining you the projects. Now you will have to provide a declaration that you will stay enrolled and get it signed by your Uni, and sign your contract!
+- **You are selected for more than one project.** Excellent! You will have to choose which project you want to pick. If you were not interviewed by supervisors before, they will get in touch explaining you the projects.
 - **You are a reserve candidate.** You wil get an email that says something along the lines of "your application is still under consideration". You will hold this status until the first candidate either signs or fails to sign the contract. 
 - **You are not selected.** It happens for most candidates, I'm sorry! Check out [what to do if you are not selected](#if-im-not-selected)
 
