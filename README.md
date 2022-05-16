@@ -73,8 +73,7 @@ https://taubytes.com/cern/04-how-to-write-about-intrests-and-experience-at-cern.
 This is where your motivational letter should go. You can find tips at [Tau Bytes](https://taubytes.com/cern/02-motivation-letter-for-cern-motivationletter.html)
 
 ## Duration
-You can choose to stay 4 to 12 months, bu[Uploading LICENSE-CC-BY-NC-SA.txt…]()
-t most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
+You can choose to stay 4 to 12 months, but most of the teams look for candidates that will stay 12 months. Someone gathered some data and made some stats on the studentship duration. Author: [u/super_max2](https://www.reddit.com/r/CERN/comments/kqdey9/yes_you_can_get_a_technical_student_placement/gi3zobh/) on reddit.
 
 ![image](https://user-images.githubusercontent.com/17505995/165913409-0886d730-e06f-48b0-9ed0-934ef61fcb2b.png)
 
