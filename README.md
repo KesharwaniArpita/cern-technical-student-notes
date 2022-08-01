@@ -153,6 +153,9 @@ You will need a swiss bank account. Here are some resources on how to choose one
 
 If you go for something like UBS or Credit Agricolè, most likely you'll need **two** different bank accounts, one in CHF and the other one in Euros. This means two different IBANs (CERN will pay you in the CHF one). Your consultant at the bank of your choice will explain you the situation in details.
 
+A lot of people seem to be unsatisfied with UBS. Some people recommend BCGE, it seems like it's free for CERN people.
+
+
 ## Useful links
 + Young@CERN (Private Facebook group): https://www.facebook.com/groups/young.at.cern
 + CERN HR Deparment website: https://hr.web.cern.ch/
