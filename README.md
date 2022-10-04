@@ -24,6 +24,7 @@ Acceptance rate is pretty low, but nothing impossible. It is (much) higher for s
 This is the acceptance rate for the last years (for both selection committees) :
 | Year | Applications | Selected | Success rate |
 |------|--------------|----------|--------------|
+| 2021 |         2565 |      187 |        7,29% |
 | 2020 |         2169 |      156 |        7,19% |
 | 2019 |         2505 |      143 |        5,71% |
 | 2018 |         2161 |       90 |        4,16% |
