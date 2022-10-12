@@ -34,7 +34,7 @@ This is the acceptance rate for the last years (for both selection committees) :
 You can find more detailed statistics about ethnicity, gender etc. at [CERN Annual Personnel report](https://cds.cern.ch/collection/CERN%20Annual%20Personnel%20Statistics?ln=el) at Technical Student Recruitment section.
 
 # Preparing your application
-There are two committees every year, one in May and one in December. The deadline for the committee in May is around the end of March, while the deadline for the December committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
+There are two committees every year, ~~one in May and one in December~~(*that is changed from second part of 2022*) . The deadline for the committee in May is around the end of March, while the deadline for the December committee is around October. Apply for a particular selection round if you're aiming to start 1-6 months after the committee.
 Take your time to prepare your application, there is no advantage in sending it first or sooner. Just be sure to send it before the deadline. 
 
 CERN has it's own page for tips [here](https://careers.cern/tips-applying).
