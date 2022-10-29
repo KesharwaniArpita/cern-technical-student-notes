@@ -95,10 +95,10 @@ That's it. You get one minute to think to an answer (not recorded) and one minut
 Now for the hard part. After the SONRU deadline, HR send all the candidate files to the teams for the selection. 1-3 weeks after the SONRU deadline, you can be contacted by some team - typically via email - to schedule a call. 
 
 Most of the applicants won't get contacted back. Rumors are that, if you don't get an interview your chances are slim. This seems to be false.  
-From a small poll of 14 people that were selected:  
-- 2 were confirmed to be selected after the interview (before the committee official selection);
-- 6 took an interview and were selected afterwards;
-- 6 did not take any interview and met their supervisors after the official selection.
+From a small poll of 36 people that were selected:  
+- 12 were confirmed to be selected after the interview (before the committee official selection);
+- 12 took an interview and were selected afterwards;
+- 12 did not take any interview and did not get contacted, and met their supervisors ony after the official selection committee. 
 
 You can be contacted by one or more teams. While this does not mean that you're selected yet, i feel like this means that your chances are increased.
 
