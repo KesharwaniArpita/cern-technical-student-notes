@@ -154,8 +154,16 @@ You will need a swiss bank account. Here are some resources on how to choose one
 
 If you go for something like UBS or Credit Agricolè, most likely you'll need **two** different bank accounts, one in CHF and the other one in Euros. This means two different IBANs (CERN will pay you in the CHF one). Your consultant at the bank of your choice will explain you the situation in details.
 
-A lot of people seem to be unsatisfied with UBS. Some people recommend BCGE, it seems like it's free for CERN people.
+A lot of people seem to be unsatisfied with UBS. Some people recommend BCGE, it seems like it's free for CERN people, but not everyone was able to open it.
 
+I've opened an account with Yuh, and I'm super happy about it. It is completely free (others may charge upwards of 10 CHF/month) and has great support. 
+The downside is that currently you can only open a Yuh bank account if you have another bank account in your name from one of very few countries: Switzerland, Italy, Austria, France, Germany and Liechtenstein. You will then need to activate your Yuh account by making a bank transfer from your other account to Yuh.
+I know people opening a french bank account just to open Yuh.
+
+You can then transfer CHF from Yuh to Revolut completely for free by topping up Revolut with the Yuh Mastercard, I am then able to change money to EUR in Revolut at the advantageous rate. 
+As far as I know, this is not possible with many other swiss banks. 
+
+If you want, you can use my referral for Yuh: ayi2i6
 
 ## Useful links
 + Young@CERN (Private Facebook group): https://www.facebook.com/groups/young.at.cern
